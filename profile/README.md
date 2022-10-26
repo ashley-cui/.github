@@ -25,13 +25,16 @@ Follow us on Twitter! [@podman_io](https://twitter.com/podman_io) [@buildah_io](
 ## 👩‍💻 Contributing
 We welcome and encourage contributions, including issues, discussions, and PR's. Please make sure to read our [Contributing Guidelines](https://github.com/containers/common/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/containers/common/blob/main/CODE-OF-CONDUCT.md) before doing so.
 
-## Security
+## 🔐 Security
 Found a security issue? Most projects follow our [Security and Disclosure Policy](https://github.com/containers/common/blob/main/SECURITY.md), but a few may have further instructions, so please check the specific project's SECURITY.md in their top-level repository on how to proceed.
 
 ##
 <p align="center">
    <a href="https://github.com/containers/podman">
     <img src="https://github.com/containers/common/blob/main/logos/podman-logo-full-vert.png" alt="Podman" width="150px"/>
+  </a>
+  <a href="https://github.com/containers/podman-desktop">
+    <img src="https://github.com/containers/common/blob/main/logos/podman-desktop-logo.png" alt="Podman Desktop" width="135px"/>
   </a>
   <a href="https://github.com/containers/buildah">
     <img src="https://github.com/containers/common/blob/main/logos/buildah-logo-full-vert.png" alt="Buildah" width="150px"/>
